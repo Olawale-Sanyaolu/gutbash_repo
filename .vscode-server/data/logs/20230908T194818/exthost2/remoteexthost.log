@@ -1,0 +1,13 @@
+2023-09-08 19:52:01.120 [info] Extension host with pid 850 started
+2023-09-08 19:52:01.229 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-08 19:52:01.252 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/3a70fd0a50a291beb4e30f6b738bb5cd/vscode.lock': Lock acquired.
+2023-09-08 19:52:01.302 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-08 19:52:01.422 [info] Eager extensions activated
+2023-09-08 19:52:01.424 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-08 19:52:01.424 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-08 19:52:03.631 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-08 19:54:03.312 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-09-08 19:54:03.312 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-08 20:04:16.332 [info] Extension host terminating: received terminate message from renderer
+2023-09-08 20:04:16.333 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/3a70fd0a50a291beb4e30f6b738bb5cd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-08 20:04:21.355 [info] Extension host with pid 850 exiting with code 0

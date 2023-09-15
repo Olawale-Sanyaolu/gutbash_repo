@@ -1,0 +1,18 @@
+2023-09-11 19:59:50.125 [info] Log level: Info
+2023-09-11 19:59:50.125 [info] Validating found git in: "git"
+2023-09-11 19:59:50.125 [info] Using git "2.34.1" from "git"
+2023-09-11 19:59:50.125 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-11 19:59:50.126 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2023-09-11 19:59:50.137 [info] Open repository: /home/olawale/learn_git_again
+2023-09-11 19:59:50.188 [info] > git config --get commit.template [4ms]
+2023-09-11 19:59:50.194 [info] No remotes found in the git config file.
+2023-09-11 19:59:50.197 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-11 19:59:50.208 [info] > git status -z -uall [4ms]
+2023-09-11 19:59:50.236 [info] No remotes found in the git config file.
+2023-09-11 19:59:50.237 [info] > git config --get commit.template [14ms]
+2023-09-11 19:59:50.237 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-11 19:59:50.241 [info] > git status -z -uall [1ms]
+2023-09-11 19:59:50.701 [info] > git check-ignore -v -z --stdin [3ms]
+2023-09-11 20:00:10.345 [info] > git show --textconv :fourth.txt [10ms]
+2023-09-11 20:00:10.346 [info] > git ls-files --stage -- /home/olawale/learn_git_again/fourth.txt [2ms]
+2023-09-11 20:00:10.358 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [3ms]

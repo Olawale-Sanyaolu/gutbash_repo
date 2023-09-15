@@ -1,0 +1,124 @@
+2023-09-08 20:04:38.160 [info] 
+
+
+
+
+2023-09-08 20:04:38.172 [info] Extension host agent started.
+2023-09-08 20:04:38.370 [info] [127.0.0.1][14e4661f][ManagementConnection] New connection established.
+2023-09-08 20:04:38.802 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] New connection established.
+2023-09-08 20:04:38.828 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] <3206> Launched Extension Host Process.
+2023-09-08 20:11:20.194 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-08 20:11:20.414 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-08 20:11:27.071 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-08 20:11:27.307 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-09 08:03:57.040 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-09 08:03:57.626 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-09 08:14:58.683 [info] [127.0.0.1][37567476][ManagementConnection] New connection established.
+2023-09-09 08:14:59.152 [info] [127.0.0.1][c74257a4][ExtensionHostConnection] New connection established.
+2023-09-09 08:14:59.165 [info] [127.0.0.1][c74257a4][ExtensionHostConnection] <3964> Launched Extension Host Process.
+2023-09-09 08:15:07.597 [info] [127.0.0.1][37567476][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-09 08:15:07.608 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-09 08:15:07.616 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-09 08:15:07.617 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-09 08:15:07.617 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-09 08:15:07.617 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-09 08:15:07.617 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-09 08:15:12.604 [info] [127.0.0.1][c74257a4][ExtensionHostConnection] <3964> Extension Host Process exited with code: 0, signal: null.
+2023-09-09 09:17:48.284 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-09 09:17:54.668 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-09 16:31:47.586 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-09 16:31:50.041 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-09 16:36:49.876 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-09 16:36:54.219 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-09 19:27:05.341 [info] [127.0.0.1][e034f02f][ManagementConnection] New connection established.
+2023-09-09 19:27:05.705 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] New connection established.
+2023-09-09 19:27:05.725 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] <4405> Launched Extension Host Process.
+2023-09-09 20:37:44.880 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-09 20:37:45.499 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-09 20:37:45.807 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-09 20:37:47.383 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-09 20:37:48.014 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-09 20:37:48.601 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-09 20:37:48.949 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-09 20:38:06.851 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-10 18:33:29.862 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-10 18:33:30.611 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-10 18:33:31.071 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-10 18:33:37.706 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-10 18:58:18.335 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-09-10 19:26:31.367 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-09-11 17:32:22.617 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-11 17:32:30.215 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-11 17:36:23.322 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-11 17:36:23.424 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-11 17:36:26.207 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-11 20:14:09.357 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-11 20:14:10.398 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-11 20:14:11.027 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:14:11.832 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:19:24.608 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-11 20:19:24.931 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:19:25.252 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-11 20:19:30.255 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:20:01.809 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-12 08:22:20.850 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-12 08:22:22.462 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-12 08:22:23.658 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-12 08:22:24.507 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-12 08:26:14.103 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-12 08:26:14.571 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-12 08:26:15.960 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-12 15:29:46.021 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-12 15:29:49.803 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-12 15:29:54.787 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-12 15:29:55.436 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-12 15:29:56.001 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-12 16:57:26.487 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/olawale/TicTacToe)
+2023-09-12 17:18:49.682 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:18:50.222 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-12 17:18:50.827 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:18:51.251 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-12 17:19:04.727 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-12 17:19:05.265 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:19:05.585 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.
+2023-09-12 17:19:05.868 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:19:47.464 [info] [127.0.0.1][0bbd97ba][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:19:47.651 [info] [127.0.0.1][e034f02f][ManagementConnection] The client has reconnected.
+2023-09-12 17:19:47.788 [info] [127.0.0.1][99d6be50][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:19:47.898 [info] [127.0.0.1][14e4661f][ManagementConnection] The client has reconnected.

@@ -1,0 +1,89 @@
+2023-09-14 04:54:51.348 [info] 
+
+
+
+
+2023-09-14 04:54:51.362 [info] Extension host agent started.
+2023-09-14 04:54:51.789 [info] [127.0.0.1][ea77aa3e][ManagementConnection] New connection established.
+2023-09-14 04:54:51.797 [info] [127.0.0.1][9d5526c4][ExtensionHostConnection] New connection established.
+2023-09-14 04:54:51.998 [info] [127.0.0.1][9d5526c4][ExtensionHostConnection] <738> Launched Extension Host Process.
+2023-09-14 06:18:29.053 [info] [127.0.0.1][9d5526c4][ExtensionHostConnection] The client has reconnected.
+2023-09-14 06:18:29.392 [info] [127.0.0.1][ea77aa3e][ManagementConnection] The client has reconnected.
+2023-09-14 07:40:33.474 [info] [127.0.0.1][ea77aa3e][ManagementConnection] The client has reconnected.
+2023-09-14 07:40:33.678 [info] [127.0.0.1][9d5526c4][ExtensionHostConnection] The client has reconnected.
+2023-09-14 07:40:38.758 [info] [127.0.0.1][ea77aa3e][ManagementConnection] The client has reconnected.
+2023-09-14 14:33:50.108 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 14:33:54.785 [info] [127.0.0.1][ea77aa3e][ManagementConnection] The client has reconnected.
+2023-09-14 14:33:57.980 [info] [127.0.0.1][9d5526c4][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:35:10.238 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-09-14 16:44:07.714 [info] [127.0.0.1][9d5526c4][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:44:08.541 [info] [127.0.0.1][ea77aa3e][ManagementConnection] The client has reconnected.
+2023-09-14 17:38:33.723 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:39:28.394 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:41:05.862 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:45:32.811 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:49:25.151 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 19:41:30.179 [info] [127.0.0.1][ea77aa3e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-14 19:41:30.255 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.285 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.286 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.287 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.288 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.289 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.289 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.289 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-14 19:41:30.290 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)

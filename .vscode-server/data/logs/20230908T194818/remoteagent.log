@@ -1,0 +1,48 @@
+2023-09-08 19:48:18.366 [info] 
+
+
+
+
+2023-09-08 19:48:18.366 [info] Extension host agent started.
+2023-09-08 19:48:18.380 [info] Started initializing default profile extensions in extensions installation folder. file:///home/olawale/.vscode-server/extensions
+2023-09-08 19:48:18.395 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/olawale/.vscode-server/extensions
+2023-09-08 19:48:18.635 [info] [127.0.0.1][e6ccd35f][ManagementConnection] New connection established.
+2023-09-08 19:48:18.839 [info] [127.0.0.1][e2e1d9cf][ExtensionHostConnection] New connection established.
+2023-09-08 19:48:18.850 [info] [127.0.0.1][e2e1d9cf][ExtensionHostConnection] <330> Launched Extension Host Process.
+2023-09-08 19:52:00.191 [info] [127.0.0.1][2d124a41][ManagementConnection] New connection established.
+2023-09-08 19:52:00.733 [info] [127.0.0.1][d07b91ef][ExtensionHostConnection] New connection established.
+2023-09-08 19:52:00.769 [info] [127.0.0.1][d07b91ef][ExtensionHostConnection] <850> Launched Extension Host Process.
+2023-09-08 20:04:16.332 [info] [127.0.0.1][2d124a41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-08 20:04:16.334 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-08 20:04:16.336 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-08 20:04:16.336 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-08 20:04:16.337 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-08 20:04:16.337 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-08 20:04:16.337 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-08 20:04:18.900 [info] [127.0.0.1][e6ccd35f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-08 20:04:18.902 [error] Error: Throttler is disposed
+    at c.queue (/home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /home/olawale/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-08 20:04:21.365 [info] [127.0.0.1][d07b91ef][ExtensionHostConnection] <850> Extension Host Process exited with code: 0, signal: null.

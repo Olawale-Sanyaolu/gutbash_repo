@@ -1,0 +1,27 @@
+2023-09-11 19:59:48.230 [info] 
+
+
+
+
+2023-09-11 19:59:48.258 [info] Extension host agent started.
+2023-09-11 19:59:48.349 [info] [127.0.0.1][eba56f6b][ManagementConnection] New connection established.
+2023-09-11 19:59:48.668 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] New connection established.
+2023-09-11 19:59:48.678 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] <13705> Launched Extension Host Process.
+2023-09-11 20:14:09.436 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-11 20:14:10.503 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:19:24.631 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:19:24.885 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-11 20:19:30.307 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:19:30.684 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-12 08:22:21.051 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-12 08:22:22.888 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-12 08:26:14.273 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-12 08:26:14.575 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-12 15:29:50.403 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-12 15:29:50.708 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:18:49.779 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:18:50.333 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-12 17:19:05.131 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.
+2023-09-12 17:19:05.476 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:19:47.522 [info] [127.0.0.1][d44fb581][ExtensionHostConnection] The client has reconnected.
+2023-09-12 17:19:47.709 [info] [127.0.0.1][eba56f6b][ManagementConnection] The client has reconnected.

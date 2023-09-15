@@ -1,0 +1,520 @@
+2023-09-14 04:54:52.648 [info] Extension host with pid 738 started
+2023-09-14 04:54:52.654 [error] Error: EEXIST: file already exists, open '/home/olawale/.vscode-server/data/User/workspaceStorage/d2f7c652791d2a953328393f061787f1/vscode.lock'
+2023-09-14 04:54:52.676 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/d2f7c652791d2a953328393f061787f1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-09-14 04:54:52.709 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/d2f7c652791d2a953328393f061787f1/vscode.lock': The pid 4405 appears to be gone.
+2023-09-14 04:54:52.710 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/d2f7c652791d2a953328393f061787f1/vscode.lock': Deleting a stale lock.
+2023-09-14 04:54:52.729 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-14 04:54:52.771 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/d2f7c652791d2a953328393f061787f1/vscode.lock': Lock acquired.
+2023-09-14 04:54:52.797 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-14 04:54:52.810 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-14 04:54:52.810 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-14 04:54:53.084 [info] Eager extensions activated
+2023-09-14 04:54:53.084 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 04:54:53.085 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 04:54:53.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:54:54.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:54:57.128 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:02.218 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:07.344 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:12.456 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:17.554 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:22.644 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:27.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:32.833 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:37.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:43.017 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:48.106 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:53.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:55:58.299 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:03.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:08.477 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:13.584 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:18.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:23.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:29.203 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:34.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:39.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:44.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:51.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:56:56.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:57:01.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3958
+2023-09-14 04:57:02.758 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-09-14 04:57:07.221 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:57:12.315 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:57:17.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:57:25.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:57:33.223 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:58:14.265 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:58:35.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:58:40.349 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:59:01.264 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:59:30.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 04:59:49.279 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:00:28.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:00:38.285 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:00:57.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:01:34.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:01:55.324 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:02:21.309 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:02:32.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:02:56.340 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:03:14.350 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:03:55.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:00.460 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:05.547 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:13.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:20.367 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:25.451 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:30.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:48.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:04:53.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:00.388 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:05.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:10.563 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:18.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:32.426 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:44.405 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:49.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:05:54.603 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:06:03.406 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:06:08.493 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:06:13.579 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:06:18.665 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:07:54.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:08:01.453 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:08:58.481 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:09:16.480 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:09:21.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:09:37.487 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:09:42.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:09:50.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:10:00.497 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:10:05.588 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:10:10.673 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:10:16.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:10:21.586 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3959
+2023-09-14 05:10:26.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:10:31.762 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:10:36.851 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:10:41.942 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:10:47.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:10:52.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:10:57.226 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:05.654 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:10.753 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:15.856 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:20.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:26.505 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-09-14 05:11:28.659 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:33.747 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:40.667 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:45.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:50.854 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:11:55.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:12:01.043 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:12:42.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:12:47.808 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:12:59.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:13:11.699 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:13:32.698 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:13:37.785 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:13:48.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:13:53.793 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:13:59.719 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:04.806 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:09.893 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:14.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:20.085 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:25.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:30.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:35.360 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:40.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:45.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:50.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:14:56.049 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:04.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:09.131 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:14.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:19.313 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:24.403 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:29.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:35.060 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3962
+2023-09-14 05:15:40.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:15:45.237 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:15:50.326 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:15:55.428 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:00.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:05.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:10.702 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:15.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:20.885 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:25.971 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:31.057 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:36.150 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:16:41.589 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:19:35.687 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:19:40.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:19:45.900 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:19:50.998 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:19:56.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:01.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:06.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:11.372 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:16.470 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:21.563 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:26.657 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3965
+2023-09-14 05:20:32.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3966
+2023-09-14 05:20:37.188 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3966
+2023-09-14 05:22:27.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3966
+2023-09-14 05:22:32.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3966
+2023-09-14 05:22:37.335 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3966
+2023-09-14 05:22:43.139 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3966
+2023-09-14 05:22:48.234 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3967
+2023-09-14 05:23:03.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3967
+2023-09-14 05:23:08.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3967
+2023-09-14 06:24:27.756 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3968
+2023-09-14 06:24:32.884 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3968
+2023-09-14 06:24:37.985 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3968
+2023-09-14 06:24:43.090 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3968
+2023-09-14 06:24:50.590 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:24:55.694 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:25:01.579 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:25:06.698 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:37:47.393 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:37:52.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:37:57.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:02.696 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:07.795 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:12.895 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:17.987 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:23.083 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:28.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:33.288 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 06:38:38.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3969
+2023-09-14 19:41:28.051 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4021
+2023-09-14 19:41:30.097 [info] Extension host terminating: received terminate message from renderer
+2023-09-14 19:41:30.100 [info] Lock '/home/olawale/.vscode-server/data/User/workspaceStorage/d2f7c652791d2a953328393f061787f1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-14 19:41:30.334 [error] Canceled: Canceled
+	at new h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:16410)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-14 19:41:30.336 [error] Canceled: Canceled
+	at new h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at set b [as b] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:714434)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:715075
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1396602)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:16410)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-14 19:41:30.338 [error] Canceled: Canceled
+	at new h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:16410)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-14 19:41:30.341 [error] Canceled: Canceled
+	at new h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at set b [as b] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:714434)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:715075
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1396602)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:16410)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-14 19:41:30.343 [error] Canceled: Canceled
+	at new h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at n.D [as value] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1309000)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:16410)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-09-14 19:41:30.346 [error] Canceled: Canceled
+	at new h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:57382)
+	at i.O (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:117:8289)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82208)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at u.registerCommand.description (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:80967)
+	at r.h (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:82744)
+	at r.g (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81739)
+	at r.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:108:81646)
+	at Object.executeCommand (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:21247)
+	at set b [as b] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:714434)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/github/dist/extension.js:2:715075
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1396602)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.x (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at Object.m [as dispose] (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1324784)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329625
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1329611)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3484)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at E.<anonymous> (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/extensions/git/dist/main.js:2:1311012)
+	at E.dispose (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:104:3581)
+	at k (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:13:11730)
+	at n.Z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:9652)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7585
+	at Array.map (<anonymous>)
+	at n.S (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7572)
+	at n.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:119:7844)
+	at o.terminate (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:123:1513)
+	at D (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:9800)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:136:7847)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at v.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:13940)
+	at s.z (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:17005)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:16410)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at n.acceptChunk (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11714)
+	at n.value (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:79:11001)
+	at m.w (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at m.fire (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at m.u (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:19093)
+	at m.acceptFrame (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:18899)
+	at a.l (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:17532)
+	at /home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:14879
+	at Socket.p (/home/olawale/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/workbench/api/node/extensionHostProcess.js:133:12793)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
