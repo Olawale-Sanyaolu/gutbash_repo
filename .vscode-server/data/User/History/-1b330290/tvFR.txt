@@ -1,0 +1,2 @@
+NewBranch.txt
+This is from a New branch in local repo.
