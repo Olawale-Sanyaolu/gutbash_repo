@@ -10,3 +10,8 @@
 2023-09-17 19:22:51.686 [warning] No ptyHost heartbeat after 6 seconds
 2023-09-17 19:23:05.754 [info] [127.0.0.1][c2db28df][ExtensionHostConnection] The client has reconnected.
 2023-09-17 19:23:06.060 [info] [127.0.0.1][d780ee0e][ManagementConnection] The client has reconnected.
+2023-09-17 21:24:17.051 [info] [127.0.0.1][d780ee0e][ManagementConnection] The client has reconnected.
+2023-09-17 21:24:17.311 [info] [127.0.0.1][c2db28df][ExtensionHostConnection] The client has reconnected.
+2023-09-17 21:24:39.322 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-18 15:51:42.802 [info] [127.0.0.1][c2db28df][ExtensionHostConnection] The client has reconnected.
+2023-09-18 15:51:44.564 [info] [127.0.0.1][d780ee0e][ManagementConnection] The client has reconnected.
